@@ -1,0 +1,9 @@
+           Name       Password       Premimum           Wins         Losses         WinPct      WinStreak            LastPlay
+          Erica        pw12345            YES              0              0            0 %              0           emptyWord
+           Siri        13579pw             NO              4              2        66.67 %             -1             fireman
+          Alexa        pw24680            YES              0              0            0 %              0           emptyWord
+        Cortana        67890pw             NO              0              0            0 %              0           emptyWord
+         Google        pw22224             NO              0              0            0 %              0           emptyWord
+            yjx           1234            YES              0              0            0 %              0           emptyWord
+            sad          12345            YES              0              1            0 %             -1             HUNTERS
+            ese            224            YES              0              0            0 %              0           emptyWord
